@@ -1,0 +1,168 @@
+*
+{
+margin:0px;
+padding:0px;
+}
+.container
+{
+width:100%;
+}
+.wrapper
+{
+width:1300px;
+margin:auto;
+}
+.light
+{
+background-color:#e9edf2;
+}
+.top
+{
+width:200px;
+height:200px;
+display:inline-block;
+}
+#bottom
+{
+float:right; 	
+margin-top:70px;
+}
+#textstyle
+{
+height:60px;
+width:900px;
+border-radius:8px;
+padding:8px;
+outline:none;
+font-size:24px;
+}
+#buttonstyle
+{
+background-color:#00CCCC;
+color:#FFFFFF;
+padding:20px;
+border-radius:8px;
+width:130px;
+outline:none;
+}
+#clear
+{
+clear:both;
+}
+.top img
+{
+width:270px;
+height:240px;
+}
+::-webkit-input-placeholder
+{
+font-size:24px;
+font-family:Georgia, "Times New Roman", Times, serif;
+}
+:-moz-placeholder
+{
+font-size:24px;
+font-family:Georgia, "Times New Roman", Times, serif;
+}
+:-ms-input-placeholder
+{
+font-size:24px;
+font-family:Georgia, "Times New Roman", Times, serif;
+}
+.gallery
+{
+border:1px solid #ccc;
+}
+.debit
+{
+background-color:#666666;
+width:100%;
+padding:0px
+}
+.credit h3
+{
+width:1300px;
+margin-left:30px;
+height:50px;
+}
+.credit h3
+{
+color:#FFFFFF;
+font-size:24px;
+line-height:50px;
+}
+.card_details
+{
+	background:;#fff;
+	color:#555;
+	margin-left:5px;
+	padding:25px;
+}
+.card_details p
+{
+	font-size:24px;
+}
+.card_details 
+{
+	font-size:12px;
+	line-height:20px;
+}
+.card-num-field-group
+{
+	margin:10px;
+}	
+.card-num-field-group label
+{
+	font-size:18px;
+}			
+.cvc-field-group label
+{
+	font-size:18px;	
+}	
+.name-field-group
+{
+	margin:10px;	
+}
+.name-field-group label
+{
+	font-size:18px;	
+}
+.card-num-field, .name-field
+{
+		width:270px;
+}
+.date-field, .cvc-field
+{
+	width:80px;
+}	
+.card_details input
+{
+	border:1px solid #ccc;
+	height:30px;
+	padding:7px;
+	font-size:14px;
+}	
+.card-details input::placeholder
+{
+
+	color:#ccc;			
+}	
+.pay-btn a
+{
+	text-decoration:none;
+ 
+ display:block;
+ background-color:#31353d;
+color:#FFF;
+padding:20px;
+border-radius:8px;
+width:130px;
+outline:none;
+font-size:24px;
+text-align:center;	
+}	
+.pay-btn a:hover
+{
+background-color:#00cccc;
+}
+

@@ -1,0 +1,86 @@
+body
+{
+	margin:0;
+	padding:0;
+	background:#e9edf2;
+	font-size:18px;
+	color:#777;
+	font-weight:300;
+}	
+#login-box
+{
+	position:relative;
+	margin:5% auto;
+	height:400px;
+	width:650px;
+	background:#fff;
+	box-shadow:0 2px 4px rgba(0,0,0,0.6);
+}	
+.left-box
+{
+	position:absolute;
+	top:0;
+	left:0;
+	box-sizing:border-box;
+	padding:20px;
+	width:350px;
+	height:400px;
+	background-image:url(1.png);
+	background-size:cover;
+	background-position:center;
+}
+h1
+{
+	margin:0 0 5px 0;
+	font-weight:300;
+	font-size:36px;
+	text-align:center;
+	color:#00cccc;
+}
+input[type="text"],
+input[type="password"]
+{
+	display:block;
+	box-sizing:border-box;
+	margin-bottom:20px;
+	padding:4px;
+	width:220px;
+	height:40px;
+	border:none;
+	outline:none;
+	border-bottom:2px solid #00cccc;
+	font-family:san-serif;
+	font-weight:400;
+	font-size:15px;
+	transition:0.2 ease;
+	
+}	
+.right-box
+{
+	position:absolute;
+	top:0;
+	right:0;
+	box-sizing:border-box;
+	padding:40px;
+	width:300px;
+	height:400px;
+	
+}	
+.button a
+{
+	text-align:center;
+	text-decoration:none;
+	display:block;
+	background-color:#31353d;
+	height:30px;
+	line-height:30px;
+	width:220px;
+	color:#FFFFFF;	
+}	
+.button a:hover
+{
+	background-color:#00cccc;
+}		
+	
+
+	
